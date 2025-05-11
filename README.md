@@ -1,1 +1,3 @@
-# CS-121---Laboratory-Activity-3-4
+# ***Weapon Picker***
+### An Object-Oriented Program using `Weapons` as a Class
+
