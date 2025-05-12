@@ -4,10 +4,10 @@
 
 ## <p align=center>An Object-Oriented Program using `Weapons⚔️` as a Class
 ### ***CS-1204 Team 9🧑‍❤️‍💋‍👨*** <br />
-&nbsp;**Bernal, Brandon** <br />
+&nbsp;**Bernal, Brandon Josef Y.** <br />
 &nbsp;**Lunar, Von Andrei G.** <br />
-&nbsp;**Mendoza, James Gabriel** <br />
-&nbsp;**Oliver, Jmar**
+&nbsp;**Mendoza, James Gabriel S.** <br />
+&nbsp;**Oliver, Jmar C.**
 
 <br />
 
