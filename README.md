@@ -1,4 +1,4 @@
-# <p align=center> ***🏹Choose Your Weapon⚔️***
+# <p align=center> 🏹***Choose Your Weapon***⚔️
 
 <p align=center> <img src=Images/Weapons_Banner.png alt="Weapons Banner">
 
