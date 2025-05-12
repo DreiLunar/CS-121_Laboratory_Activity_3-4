@@ -3,7 +3,7 @@
 <p align=center> <img src=https://github.com/DreiLunar/CS-121_Laboratory_Activity_3-4/blob/main/Weapons.png alt="Weapons Banner">
 
 ## <p align=center>An Object-Oriented Program using `Weapons` as a Class
-### <p align=center>CS-1204 Team 9
+### By: **CS-1204 Team 9**
 
 <br />
 
