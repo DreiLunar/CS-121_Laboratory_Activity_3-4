@@ -1,6 +1,6 @@
 # <p align=center> ***🏹Choose Your Weapon⚔️***
 
-<p align=center> <img src=https://github.com/DreiLunar/CS-121_Laboratory_Activity_3-4/blob/main/Weapons%20Banner.png alt="Weapons Banner">
+<p align=center> <img src=Images/Weapons Banner.png alt="Weapons Banner">
 
 ### An Object-Oriented Program using `Weapons⚔️` as a Class
 by: ***CS-1204 Team 9😎***
