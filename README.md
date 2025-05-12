@@ -1,4 +1,4 @@
-# <p align=center> ***Weapon Picker***
+# <p align=center> ***🏹Choose Your Weapon⚔️***
 
 <p align=center> <img src=https://github.com/DreiLunar/CS-121_Laboratory_Activity_3-4/blob/main/Weapons.png alt="Weapons Banner">
 
