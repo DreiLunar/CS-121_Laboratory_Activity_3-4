@@ -25,7 +25,7 @@ Each weapon is characterized by essential attributes including its name, level, 
 When a user selects a weapon, they can examine its complete statistical profile through the display function, revealing all the vital information needed to make tactical decisions. The practical use_weapon method simulates combat usage, tracking durability degradation with each deployment and preventing further use when a weapon reaches its breaking point.
 Perhaps most intriguing is the special_attack feature, which activates unique abilities for select weapons. The enchanting Doughdil charms enemies to lower their defenses, while the mystical Wand unleashes devastating lightning bolts. The Pope's Staff demonstrates ultimate power by disintegrating all enemies in its path, and the magical Tome creates healing circles to restore allies across a wide area.
 
-### *💻Code Snippet:*
+### 💻*Code Snippet:*
 ```python
 class Weapon(AbstractWeapon):
     def __init__(self, name, level, damage, damage_type, range, durability, origin, age, has_special_attack=False):
