@@ -14,7 +14,7 @@ Our class in CS 121 was tasked to do our laboratory activity 3 and 4 about our t
 
 <br />
 
-### ***Weapon Class: The Heart of the Weapon Management System***
+### ***Weapon Class: The Heart of the Weapon Management System🧙‍♂️***
 
 The Weapon class serves as the cornerstone of our weapon management system. Building upon the foundation provided by the AbstractWeapon parent class, this implementation brings weapons to life with practical functionality and unique special abilities.
 Each weapon is characterized by essential attributes including its name, level, damage potential, damage type, effective range, durability status, historical origin, and age. Beyond these standard properties, certain exceptional weapons possess special attack capabilities that set them apart on the battlefield.
