@@ -1,6 +1,6 @@
 # <p align=center> ***Weapon Picker***
-### <p align=center>An Object-Oriented Program using `Weapons` as a Class
-##### <p align=center>CS-1204 Team 9 <br />
+## <p align=center>An Object-Oriented Program using `Weapons` as a Class
+### <p align=center>CS-1204 Team 9 <br />
 
 ##### Context:
 Our class in CS 121 was tasked to do our laboratory activity 3 and 4 about our topic--Object Oriented Programming that focuses on classes. Our team was assigned to create a program that uses classes and was given `Weapons` to use as our topic.
