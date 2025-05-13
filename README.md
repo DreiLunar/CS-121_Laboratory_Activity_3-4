@@ -4,11 +4,12 @@
 
 ## <p align=center>An Object-Oriented Program using `Weapons⚔️` as a Class
 ### ***CS-1204 Team 9***🧑‍❤️‍💋‍👨 <br />
-&nbsp;**Bernal, Brandon Josef Y.** <br />
-&nbsp;**Lunar, Von Andrei G.** <br />
-&nbsp;**Mendoza, James Gabriel S.** <br />
-&nbsp;**Oliver, Jmar C.**
-
+| Members                       | Github Profile                                            |
+|-------------------------------|-----------------------------------------------------------|
+| **Bernal, Brandon Josef Y.**  | [Brandon-JYB](https://github.com/Brandon-JYB)             |
+| **Lunar, Von Andrei G.**      | [Dreilunar](https://github.com/DreiLunar)                 |
+| **Mendoza, James Gabriel S.** |
+| **Oliver, Jmar C.**           | [yeloooooooooooooo](https://github.com/yeloooooooooooooo) |
 <br />
 
 ### 👩‍🏫**Context:**
@@ -77,5 +78,5 @@ To our beloved teacher, **Ms. Fatima Marie Agdon**.
 
 <br />
 
-*Sincerly,* <br />
+*Sincerely,* <br />
 **Team 9**
