@@ -13,17 +13,17 @@
 
 ### 👩‍🏫**Context:**
 
-&ensp; Our class in CS 121 was tasked to do our laboratory activity 3 and 4 about our topic--Object-Oriented Programming that focuses on classes. Our team was assigned to create a program that uses classes and was given `Weapons` to use as our topic. This Python software develops a weapon management system based on object-oriented programming concepts. It consists of an abstract base class AbstractWeapon, which has common properties such as name, level, damage, and durability, and an abstract method special_attack. The Weapon class inherits from AbstractWeapon and implements the special_attack method, which activates unique special powers for some weapons. The WeaponManager class keeps many weapon types, including swords, marksman, casters, and rangers. Each weapon category provides a variety of weapons with unique qualities. The application allows users to select a weapon class, select a weapon from the available options, check its stats, use the weapon, and activate its special attack (if the weapon does have one).
+&ensp; Our class in CS 121 was tasked to do our laboratory activity 3 and 4 about our topic--Object-Oriented Programming that focuses on classes. Our team was assigned to create a program that uses classes and was given `Weapons` to use as our topic. This Python software develops a weapon management system based on object-oriented programming concepts. It consists of an abstract base class `AbstractWeapon`, which has common properties such as `name`, `level`, `damage`, and `durability`, and an abstract method `special_attack`. The `Weapon` class inherits from `AbstractWeapon` and implements the `special_attack` method, which activates unique special powers for some weapons. The `WeaponManager` class keeps many weapon types, including `swords`, `marksman`, `casters`, and `rangers`. Each weapon category provides a variety of weapons with unique qualities. The application allows users to select a weapon class, select a weapon from the available options, check its stats, use the weapon, and activate its special attack (if the weapon does have one).
 
 
 <br />
 
 ## **Weapon Class: The Heart of the Weapon Management System🧙‍♂️**
 
-&ensp; The Weapon class serves as the cornerstone of our weapon management system. Building upon the foundation provided by the AbstractWeapon parent class, this implementation brings weapons to life with practical functionality and unique special abilities.
-Each weapon is characterized by essential attributes including its name, level, damage potential, damage type, effective range, durability status, historical origin, and age. Beyond these standard properties, certain exceptional weapons possess special attack capabilities that set them apart on the battlefield.
-When a user selects a weapon, they can examine its complete statistical profile through the display function, revealing all the vital information needed to make tactical decisions. The practical use_weapon method simulates combat usage, tracking durability degradation with each deployment and preventing further use when a weapon reaches its breaking point.
-Perhaps most intriguing is the special_attack feature, which activates unique abilities for select weapons. The enchanting Doughdil charms enemies to lower their defenses, while the mystical Wand unleashes devastating lightning bolts. The Pope's Staff demonstrates ultimate power by disintegrating all enemies in its path, and the magical Tome creates healing circles to restore allies across a wide area.
+&ensp; The Weapon class serves as the cornerstone of our weapon management system. Building upon the foundation provided by the `AbstractWeapon` parent class, this implementation brings weapons to life with practical functionality and unique special abilities.
+Each weapon is characterized by essential attributes including its `name`, `level`, `damage`, `damage type`, `range`, `durability status`, `historical origin`, and `age`. Beyond these standard properties, certain exceptional weapons possess special attack capabilities that set them apart on the battlefield.
+When a user selects a weapon, they can examine its complete statistical profile through the display function, revealing all the vital information needed to make tactical decisions. The practical `use_weapon` method simulates combat usage, tracking durability degradation with each deployment and preventing further use when a weapon reaches its breaking point.
+Perhaps most intriguing is the `special_attack` feature, which activates unique abilities for select weapons. The enchanting Doughdil charms enemies to lower their defenses, while the mystical Wand unleashes devastating lightning bolts. The Pope's Staff demonstrates ultimate power by disintegrating all enemies in its path, and the magical Tome creates healing circles to restore allies across a wide area.
 
 ### 💻*Code Snippet:*
 ```python
@@ -67,6 +67,13 @@ class Weapon(AbstractWeapon):
 <br />
 
 ### **🙇Acknowledgement:**
+To our beloved teacher, **Ms. Fatima Marie Agdon**.
+
+<br />
+
+&ensp; We would like to express our sincere gratitude for your dedication, patience, and passion in teaching us computer programming. Your ability to explain complex topics clearly and guide us through each challenge has made a big difference in our learning experience.
+
+&ensp; Thank you for sharing your knowledge, for believing in our potential, and for inspiring us to think critically and code with confidence. Your support and encouragement have been truly meaningful, and we are incredibly grateful for all the time and effort you've given us.
 
 <br />
 
