@@ -120,12 +120,20 @@ def main():
         weapon = manager.show_weapons(type_choice)
         if weapon:
             weapon.display_stats()
-            use_choice = input("\nDo you want to use this weapon? (Y/N): ")
+            while True:
+              use_choice = input("\nDo you want to use this weapon? (Y/N): ").strip().lower()
+              if use_choice in ('y', 'n'):
+                break
+              print("Invalid input. Please enter 'Y' or 'N'")
             if use_choice.upper() == 'Y':
                 weapon.use_weapon()
 
             if weapon.has_special_attack:
-                special_choice = input("\nDo you want to use the special attack? (Y/N): ")
+              while True:
+                special_choice = input("\nDo you want to use the special attack? (Y/N): ").strip().lower()
+                if special_choice in ('y', 'n'):
+                  break
+                print("Invalid input. Please enter 'Y' or 'N'")
                 if special_choice.upper() == 'Y':
                     weapon.special_attack()
 
