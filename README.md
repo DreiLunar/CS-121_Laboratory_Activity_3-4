@@ -71,7 +71,7 @@ Select weapon class:
 3. Caster
 4. Ranger
 ```
-Enter the number corresponding to the weapon class you'd like to explore, or type 'q' to quit the program.
+Enter the number corresponding to the weapon class you'd like to explore or type 'q' to quit the program.
 
 ### Selecting a Weapon
 After choosing a class, you'll be shown available weapons within that category:
@@ -111,6 +111,8 @@ Do you want to use the special attack? (Y/N):
 ```
 - Enter 'Y' to execute the special attack
 - Enter 'N' to return without using it
+
+<br />
 
 ## **🙇Acknowledgement:**
 To our beloved teacher, **Ms. Fatima Marie Agdon**.
