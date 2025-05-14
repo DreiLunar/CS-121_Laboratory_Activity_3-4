@@ -112,6 +112,8 @@ Do you want to use the special attack? (Y/N):
 - Enter 'Y' to execute the special attack
 - Enter 'N' to return without using it
 
+<br />
+
 ## **🙇Acknowledgement:**
 To our beloved teacher, **Ms. Fatima Marie Agdon**.
 
