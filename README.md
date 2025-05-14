@@ -60,6 +60,58 @@ class Weapon(AbstractWeapon):
 
 <br />
 
+## 📜How to Use:
+### Main Menu
+When you start the program, you'll see the main menu displaying weapon classes:
+
+```
+Select weapon class:
+1. Sword
+2. Marksman
+3. Caster
+4. Ranger
+```
+Enter the number corresponding to the weapon class you'd like to explore, or type 'q' to quit the program.
+
+### Selecting a Weapon
+After choosing a class, you'll be shown available weapons within that category:
+
+```
+Select [Weapon Class] weapon:
+1. [Weapon 1]
+2. [Weapon 2]
+3. [Weapon 3]
+```
+Enter the number of the weapon you want to select.
+
+### Weapon Stats
+Once a weapon is selected, its stats will be displayed:
+
+```
+[Weapon Name] Stats:
+Level: [Level]
+Damage: [Damage]
+Damage Type: [Type]
+Range: [Range]
+Durability: [Durability]/100
+```
+### Using the Weapon
+You'll be prompted to use the weapon:
+
+```
+Do you want to use this weapon? (Y/N):
+```
+- Enter 'Y' to use the weapon, which reduces its durability by 10 points
+- Enter 'N' to return without using it
+
+### Special Attacks
+If the selected weapon has a special attack capability, you'll be prompted:
+```
+Do you want to use the special attack? (Y/N):
+```
+- Enter 'Y' to execute the special attack
+- Enter 'N' to return without using it
+
 ### **🙇Acknowledgement:**
 To our beloved teacher, **Ms. Fatima Marie Agdon**.
 
