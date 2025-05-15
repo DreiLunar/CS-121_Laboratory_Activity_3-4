@@ -139,6 +139,4 @@ def main():
 
         print("\n" + "-" * 40 + "\n")
 
-
-if __name__ == "__main__":
-    main()
+main()
