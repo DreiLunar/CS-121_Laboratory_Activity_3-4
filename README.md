@@ -14,8 +14,6 @@
 # <p align=center> 🏹***Choose Your Weapon***⚔️
 
 ## **Weapon Class: The Heart of the Weapon Management System🧙‍♂️**
-<br />
-
 &ensp; The Weapon class serves as the cornerstone of our weapon management system. Building upon the foundation provided by the `AbstractWeapon` parent class, this implementation brings weapons to life with practical functionality and unique special abilities.
 Each weapon is characterized by essential attributes including its `name`, `level`, `damage`, `damage type`, `range`, `durability status`, `origin`, and `age`. Beyond these standard properties, certain exceptional weapons possess special attack capabilities that set them apart on the battlefield.
 When a user selects a weapon, they can examine its complete statistical profile through the display function, revealing all the vital information needed to make tactical decisions. The practical `use_weapon` method simulates combat usage, tracking durability degradation with each deployment and preventing further use when a weapon reaches its breaking point.
