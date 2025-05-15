@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28b0d222-8fc3-4642-8ec3-1c6b8a416b21" name="Changes" comment="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
+    <list default="true" id="28b0d222-8fc3-4642-8ec3-1c6b8a416b21" name="Changes" comment="Team name centered" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +73,7 @@
       <workItem from="1747137153514" duration="1720000" />
       <workItem from="1747228994343" duration="338000" />
       <workItem from="1747229886696" duration="3619000" />
-      <workItem from="1747270424494" duration="807000" />
+      <workItem from="1747270424494" duration="1256000" />
     </task>
     <task id="LOCAL-00001" summary="Rename image file and fix README image path&#10;&#10;Renamed &quot;Weapons Banner.png&quot; to &quot;Weapons_Banner.png&quot; for consistency. Updated the image path in the README to reflect this change.">
       <option name="closed" value="true" />
@@ -235,7 +235,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747271218254</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Fix README formatting by adding a missing line break&#10;&#10;Inserted a line break in the &quot;Choose Your Weapon&quot; header for improved readability and consistent formatting. Additionally, updated workspace.xml descriptions to enhance clarity without affecting functionality.">
+      <option name="closed" value="true" />
+      <created>1747271288747</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747271288747</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Undid earlier changes">
+      <option name="closed" value="true" />
+      <created>1747271343042</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747271343042</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Team name centered">
+      <option name="closed" value="true" />
+      <created>1747271689307</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747271689307</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +276,9 @@
     <MESSAGE value="Description fixes" />
     <MESSAGE value="Update workspace.xml and README for description fixes&#10;&#10;Updated description fields in workspace.xml to improve clarity and consistency. Adjusted README structure and image path for better presentation. No changes were made to core functionality or project logic." />
     <MESSAGE value="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
+    <MESSAGE value="Fix README formatting by adding a missing line break&#10;&#10;Inserted a line break in the &quot;Choose Your Weapon&quot; header for improved readability and consistent formatting. Additionally, updated workspace.xml descriptions to enhance clarity without affecting functionality." />
+    <MESSAGE value="Undid earlier changes" />
+    <MESSAGE value="Team name centered" />
+    <option name="LAST_COMMIT_MESSAGE" value="Team name centered" />
   </component>
 </project>

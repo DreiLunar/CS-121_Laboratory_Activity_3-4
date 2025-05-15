@@ -2,13 +2,18 @@
 
 ## <p align=center>An Object-Oriented Program using `Weapons⚔️` as a Class
 
-### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp; ***CS-1204 Team 9***🧑‍❤️‍💋‍👨 <br />
+### <p align=center>***CS-1204 Team 9***🧑‍❤️‍💋‍👨 <br />
+<p align=center>
+
 | Members                       | Github Profile                                              |
 |-------------------------------|-------------------------------------------------------------|
 | **Bernal, Brandon Josef Y.**  | [Brandon-JYB](https://github.com/Brandon-JYB)               |
 | **Lunar, Von Andrei G.**      | [Dreilunar](https://github.com/DreiLunar)                   |
 | **Mendoza, James Gabriel S.** | [JamesMendozaRiniya](https://github.com/JamesMendozaRiniya) |
 | **Oliver, Jmar C.**           | [yeloooooooooooooo](https://github.com/yeloooooooooooooo)   |
+
+</p>
+
 <br />
 
 # <p align=center> 🏹***Choose Your Weapon***⚔️
