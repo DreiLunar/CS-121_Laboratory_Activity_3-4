@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28b0d222-8fc3-4642-8ec3-1c6b8a416b21" name="Changes" comment="Description fixes" />
+    <list default="true" id="28b0d222-8fc3-4642-8ec3-1c6b8a416b21" name="Changes" comment="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +73,7 @@
       <workItem from="1747137153514" duration="1720000" />
       <workItem from="1747228994343" duration="338000" />
       <workItem from="1747229886696" duration="3619000" />
-      <workItem from="1747270424494" duration="424000" />
+      <workItem from="1747270424494" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="Rename image file and fix README image path&#10;&#10;Renamed &quot;Weapons Banner.png&quot; to &quot;Weapons_Banner.png&quot; for consistency. Updated the image path in the README to reflect this change.">
       <option name="closed" value="true" />
@@ -219,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747270822777</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update workspace.xml and README for description fixes&#10;&#10;Updated description fields in workspace.xml to improve clarity and consistency. Adjusted README structure and image path for better presentation. No changes were made to core functionality or project logic.">
+      <option name="closed" value="true" />
+      <created>1747271124022</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747271124022</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document.">
+      <option name="closed" value="true" />
+      <created>1747271218254</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747271218254</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +250,8 @@
     <MESSAGE value="Added extra spacing" />
     <MESSAGE value="Changed banner picture" />
     <MESSAGE value="Description fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Description fixes" />
+    <MESSAGE value="Update workspace.xml and README for description fixes&#10;&#10;Updated description fields in workspace.xml to improve clarity and consistency. Adjusted README structure and image path for better presentation. No changes were made to core functionality or project logic." />
+    <MESSAGE value="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add missing line break in README section&#10;&#10;Inserted a line break for improved readability in the &quot;Choose Your Weapon&quot; header. This ensures consistent formatting across the document." />
   </component>
 </project>
