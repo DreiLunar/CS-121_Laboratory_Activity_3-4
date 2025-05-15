@@ -1,8 +1,7 @@
-# <p align=center> 🏹***Choose Your Weapon***⚔️
-
 <p align=center> <img src=Images/Weapons_Banner.png alt="Weapons Banner">
 
 ## <p align=center>An Object-Oriented Program using `Weapons⚔️` as a Class
+
 ### ***CS-1204 Team 9***🧑‍❤️‍💋‍👨 <br />
 | Members                       | Github Profile                                              |
 |-------------------------------|-------------------------------------------------------------|
@@ -11,6 +10,8 @@
 | **Mendoza, James Gabriel S.** | [JamesMendozaRiniya](https://github.com/JamesMendozaRiniya) |
 | **Oliver, Jmar C.**           | [yeloooooooooooooo](https://github.com/yeloooooooooooooo)   |
 <br />
+
+# <p align=center> 🏹***Choose Your Weapon***⚔️
 
 ## **Weapon Class: The Heart of the Weapon Management System🧙‍♂️**
 
