@@ -21,6 +21,9 @@ Each weapon is characterized by essential attributes including its `name`, `leve
 When a user selects a weapon, they can examine its complete statistical profile through the display function, revealing all the vital information needed to make tactical decisions. The practical `use_weapon` method simulates combat usage, tracking durability degradation with each deployment and preventing further use when a weapon reaches its breaking point.
 Perhaps most intriguing is the `special_attack` feature, which activates unique abilities for select fictional weapons.
 
+### 👩‍🏫*Class Diagram:*
+<p align=center> <img src=Images/WeaponDiagram.png alt="Weapon Diagram">
+
 ### 💻*Code Snippet:*
 ```python
 class Weapon(AbstractWeapon):

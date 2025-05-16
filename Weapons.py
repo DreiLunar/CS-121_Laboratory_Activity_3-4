@@ -43,7 +43,7 @@ class Weapon(AbstractWeapon):
             print(f"{self.name} has no special attack.")
         else:
             if self.name == "Doughdil":
-                print(f"{self.name} charms the enemy, lowering their defenses!")
+                print(f"{self.name} charm   s the enemy, lowering their defenses!")
             elif self.name == "Wand":
                 print(f"{self.name} fires a bolt of blue lightning!")
             elif self.name == "Pope's Staff":
